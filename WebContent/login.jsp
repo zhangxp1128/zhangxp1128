@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8" import="org.zxp.util.*" %>
+    pageEncoding="UTF-8" import="org.zhangxuping.util.*" %>
 <%@ taglib prefix="et" uri="/WEB-INF/jsp2-example-taglib.tld" %>
 
 <!doctype html>
@@ -11,7 +11,7 @@
     <meta name="author" content="">
     <link rel="icon" href="./img/favicon.ico">
 
-    <title>Signin Template for Bootstrap</title>
+    <title>SignIn Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
     <link href="./css/bootstrap.min.css" rel="stylesheet">

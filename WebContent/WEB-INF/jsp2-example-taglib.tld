@@ -28,7 +28,7 @@
     <function>
         <description>Base64 decode</description>
         <name>decode</name>
-        <function-class>org.sc.util.EncryptTool</function-class>
+        <function-class>org.zhangxuping.util.EncryptTool</function-class>
         <function-signature>java.lang.String decodeBase64( java.lang.String )</function-signature>
     </function>
     
